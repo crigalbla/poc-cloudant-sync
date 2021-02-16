@@ -1,0 +1,10 @@
+{
+  "services": {
+    "Cloudant-poc-rubentxu": {
+      "credentials": {
+        "username": "Rubentxu",
+        "password": "Patatas.Bravas"
+      }
+    }
+  }
+}
